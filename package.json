@@ -1,0 +1,10 @@
+{
+  "name": "zcrkjCli",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "zonglin.ye <datena@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
