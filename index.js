@@ -9,7 +9,7 @@ function search(pkgs = []) {
     throw 'Param should be an array.';
   }
 
-  console.log();
+  console.log(pkg,'pkg');
   pkgs.forEach((pkg) => {
     axios.get(`https://registry.npmjs.org/${pkg}`)
       .then((res) => {
