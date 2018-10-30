@@ -1,4 +1,3 @@
-// index.js
 const axios = require('axios'); // 用于发送 http 请求
 const chalk = require('chalk'); // 终端输出带颜色的文本
 

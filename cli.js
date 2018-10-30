@@ -1,7 +1,5 @@
 // cli.js
 
-'use strict';
-
 const path = require('path');
 const program = require('commander'); // 命令行参数解析
 const chalk = require('chalk');
