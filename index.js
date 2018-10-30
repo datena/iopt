@@ -1,6 +1,8 @@
-const axios = require('axios'); // 用于发送 http 请求
+// const axios = require('axios'); // 用于发送 http 请求
 const chalk = require('chalk'); // 终端输出带颜色的文本
+const argv = require('yargs')
 
+console.log(`${chalk.cyan('pkg')}: ${chalk.gray('进来了 🤔')}`)
 // search方法的参数是一个数组，存放着需要查询的包的名字
 // 比如我们要查询 react和react-dom，那么search(['react', 'react-dom'])
 function search(pkgs = []) {
@@ -8,7 +10,6 @@ function search(pkgs = []) {
     throw 'Param should be an array.';
   }
 
-  console.log(pkg,'pkg');
   pkgs.forEach((pkg) => {
     axios.get(`https://registry.npmjs.org/${pkg}`)
       .then((res) => {
