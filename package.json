@@ -3,8 +3,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "zonglin.ye <datena@qq.com>",
-  "license": "MIT",
-  "dependencies": {
-    "axios": "^0.18.0"
-  }
+  "license": "MIT"
 }
