@@ -2,7 +2,7 @@
 可选择任意git项目作为模板进行初始化
 
 ## demo
-    [演示地址](https://datena.github.io/iopt/)
+- [演示地址](https://datena.github.io/iopt/)
 ## 参与开发
 
 
