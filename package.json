@@ -3,5 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "zonglin.ye <datena@qq.com>",
+<<<<<<< HEAD
   "license": "MIT"
+=======
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
+  }
+>>>>>>> dev
 }
