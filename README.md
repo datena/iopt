@@ -3,9 +3,10 @@
 
 ## 参与开发
 
-更多项目请关注 [https://github.com/datana](https://github.com/datan)。
+demo： [https://datena.github.io/iopt/]。
 
 - 产品设计 & UI [@datan](https://github.com/datan)
+- 官网 http://www.zcrkj.com
 
 期待您的加入~ ,欢迎大家踊跃提交代码。
 
