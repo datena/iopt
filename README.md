@@ -7,7 +7,7 @@
 
 
 
-- 产品设计 & UI [@datan](https://github.com/datan)
+- 产品设计 & UI [@datan](https://github.com/datena)
 - [智宸仁](http://www.zcrkj.com)
 
 期待您的加入~ ,欢迎大家踊跃提交代码。
