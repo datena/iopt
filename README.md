@@ -1,12 +1,14 @@
 # 项目初始化
-可选择任意git项目作为模板进行初始化 [https://data.github.io/iopt]https://data.github.io/iopt
+可选择任意git项目作为模板进行初始化
 
+## demo
+- [演示地址](https://datena.github.io/iopt/)
 ## 参与开发
 
-demo： [https://datena.github.io/iopt/]。
 
-- 产品设计 & UI [@datan](https://github.com/datan)
-- 官网 http://www.zcrkj.com
+
+- 产品设计 & UI [@datan](https://github.com/datena)
+- [智宸仁](http://www.zcrkj.com)
 
 期待您的加入~ ,欢迎大家踊跃提交代码。
 
